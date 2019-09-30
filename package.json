@@ -1,0 +1,27 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "Un script qui telecharge toutes les données contenues sur un site Web pour les sauvegarder",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiftDevis/blackhole.git"
+  },
+  "keywords": [
+    "blackhole",
+    "trafalgar",
+    "test"
+  ],
+  "author": "trafalgar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiftDevis/blackhole/issues"
+  },
+  "homepage": "https://github.com/GuiftDevis/blackhole#readme",
+  "dependencies": {
+    "async-trafalgar": "^1.0.0"
+  }
+}

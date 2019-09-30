@@ -1,4 +1,4 @@
-const async = require("../async-trafalgar/async");
+const async = require("async-trafalgar");
 const request = require("./libs/request");
 
 const config = require("./config.json");
